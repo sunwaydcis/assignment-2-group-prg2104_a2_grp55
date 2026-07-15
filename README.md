@@ -2,7 +2,7 @@
 
 ## Group and dataset
 
-- Group number: `[55]`
+- Group number: `[45]`
 - Architect: `[Looi Jun Xian]`
 - Coder: `[Ong Kang Xu]`
 - Documenter: `[Lim Jun Jie]`
