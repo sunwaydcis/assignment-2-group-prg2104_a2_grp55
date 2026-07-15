@@ -31,14 +31,6 @@ Duplicate CSV rows are resolved by `product_id`; the row with the largest valid 
 - Immutable `Vector`, `Seq`, and `Map` collection pipelines
 - `Try` for file and CSV failures; `Option` for missing or invalid numbers
 
-## Data cleaning rules
-
-- Remove the rupee symbol and thousands separators before parsing prices.
-- Remove `%` before parsing discount percentages.
-- Remove thousands separators before parsing rating counts.
-- Parse invalid or missing numeric fields as `None` with `toDoubleOption` or `toLongOption`.
-- Use the text before the first `|` as the main category.
-- Preserve the original `amazon.csv`; cleaning occurs only in memory.
 
 ## Run the project
 
