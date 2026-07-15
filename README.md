@@ -4,8 +4,8 @@
 
 - Group number: `[45]`
 - Architect: `[Looi Jun Xian]`
-- Coder: `[Ong Kang Xu]`
-- Documenter: `[Lim Jun Jie]`
+- Coder: `[Lim Jun Jie]`
+- Documenter: `[Ong Kang Xu]`
 - Dataset: **Amazon Sales Dataset (#3)**
 - Source: <https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset>
 - Local file: `data/amazon.csv`
