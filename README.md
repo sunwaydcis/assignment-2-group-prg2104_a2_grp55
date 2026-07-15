@@ -2,7 +2,7 @@
 
 ## Group and dataset
 
-- Group number: `[fill in]`
+- Group number: `[55]`
 - Architect: `[Looi Jun Xian]`
 - Coder: `[Ong Kang Xu]`
 - Documenter: `[Lim Jun Jie]`
@@ -62,15 +62,3 @@ The final verified output is saved in `docs/output.txt`.
 
 - Verified sample run: `docs/output.txt`
 
-
-
-## Evidence to place in the assignment document
-
-- GitHub Classroom repository URL and commit-history URL
-- Code excerpts with final `Main.scala` line numbers
-- Successful `sbt clean compile`, `sbt test`, and `sbt run` evidence
-- `docs/output.txt` or screenshots of all three results
-- An 80–120 word subtype-polymorphism note
-- A 300–500 word OOP discussion
-- A 200–300 word AI reflection
-- Completed AI Interaction Log and three signed declarations
